@@ -3,7 +3,7 @@
 # cell 첫줄에 작성
 
 # 인사말 관련 모듈.
-__version__ = 1.0
+__version__ = 1.1
 
 def print_greeting(name):
     print(f"{name}님 안녕하세요.")
